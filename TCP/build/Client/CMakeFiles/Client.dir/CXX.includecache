@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Client/include/Client/Client.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+
+/home/campeanu/Workspace/Sockets/TCP/Client/src/Client.cpp
+Client/Client.h
+/home/campeanu/Workspace/Sockets/TCP/Client/src/Client/Client.h
+
+/home/campeanu/Workspace/Sockets/TCP/Client/src/main.cpp
+Client/Client.h
+/home/campeanu/Workspace/Sockets/TCP/Client/src/Client/Client.h
+

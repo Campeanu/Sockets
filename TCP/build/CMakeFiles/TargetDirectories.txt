@@ -1,0 +1,8 @@
+/home/campeanu/Workspace/Sockets/TCP/build/CMakeFiles/rebuild_cache.dir
+/home/campeanu/Workspace/Sockets/TCP/build/CMakeFiles/edit_cache.dir
+/home/campeanu/Workspace/Sockets/TCP/build/Server/CMakeFiles/rebuild_cache.dir
+/home/campeanu/Workspace/Sockets/TCP/build/Server/CMakeFiles/Server.dir
+/home/campeanu/Workspace/Sockets/TCP/build/Server/CMakeFiles/edit_cache.dir
+/home/campeanu/Workspace/Sockets/TCP/build/Client/CMakeFiles/rebuild_cache.dir
+/home/campeanu/Workspace/Sockets/TCP/build/Client/CMakeFiles/Client.dir
+/home/campeanu/Workspace/Sockets/TCP/build/Client/CMakeFiles/edit_cache.dir

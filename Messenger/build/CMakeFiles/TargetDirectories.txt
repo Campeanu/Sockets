@@ -1,0 +1,8 @@
+/home/campeanu/Workspace/Sockets/Messenger/build/CMakeFiles/rebuild_cache.dir
+/home/campeanu/Workspace/Sockets/Messenger/build/CMakeFiles/edit_cache.dir
+/home/campeanu/Workspace/Sockets/Messenger/build/Server/CMakeFiles/rebuild_cache.dir
+/home/campeanu/Workspace/Sockets/Messenger/build/Server/CMakeFiles/Server.dir
+/home/campeanu/Workspace/Sockets/Messenger/build/Server/CMakeFiles/edit_cache.dir
+/home/campeanu/Workspace/Sockets/Messenger/build/Client/CMakeFiles/rebuild_cache.dir
+/home/campeanu/Workspace/Sockets/Messenger/build/Client/CMakeFiles/Client.dir
+/home/campeanu/Workspace/Sockets/Messenger/build/Client/CMakeFiles/edit_cache.dir
