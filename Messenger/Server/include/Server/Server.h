@@ -38,12 +38,13 @@ namespace Messenger {
 
     // Setup a socket and connection tools.
     // ------------------------------------
+    /* sockaddr_in Structure describing an Internet socket address. */
     sockaddr_in servAddr;
 
     // Open stream oriented socket with internet address.
     // Also keep track of the socket descriptor.
     // -----------------------------------------    
-    int serverSd;
+    int serverSd; // socket descriptor
 
     // Bind the socket to its local address.
     // -------------------------------------
@@ -56,7 +57,7 @@ namespace Messenger {
     sockaddr_in newSockAddr;
     socklen_t newSockAddrSize;
 
-    // Accept, create a new socket descriptor to andle the new connection with client.
+    // Accept, create a new socket descriptor to handle the new connection with client.
     // -------------------------------------------------------------------------------
     int newSd;
 
@@ -68,7 +69,8 @@ namespace Messenger {
     // ---------------------------------------------------
     int bytesRead, bytesWritten = 0;
 
-    // While loop !
+    // While loop ! --- Data we send back to the client.
+    // -------------------------------------------------
     std::string data;
 
     }; // class: Server
